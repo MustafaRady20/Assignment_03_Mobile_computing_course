@@ -1,0 +1,12 @@
+/home/mostafa/Data/assignment03_mostafarady/build/linux/x64/debug/bundle/assignment03_mostafarady
+/home/mostafa/Data/assignment03_mostafarady/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/mostafa/Data/assignment03_mostafarady/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/mostafa/Data/assignment03_mostafarady/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/mostafa/Data/assignment03_mostafarady/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/mostafa/Data/assignment03_mostafarady/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/mostafa/Data/assignment03_mostafarady/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/mostafa/Data/assignment03_mostafarady/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/mostafa/Data/assignment03_mostafarady/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/mostafa/Data/assignment03_mostafarady/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/mostafa/Data/assignment03_mostafarady/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/mostafa/Data/assignment03_mostafarady/build/linux/x64/debug/bundle/data/flutter_assets/version.json
